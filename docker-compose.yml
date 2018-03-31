@@ -1,0 +1,12 @@
+version: '2'
+
+services:
+  app:
+    image: ubuntu_llvm:latest
+    build: 
+      context: .
+    command: /bin/bash
+    volumes:
+      - .:/works
+    tty: true
+    stdin_open: true
