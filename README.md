@@ -15,5 +15,3 @@ root@d7aed2ef2140:/# ./toy
 ready> 
 ```
 
-# Caution!
-toy.cpp code from http://llvm.org/docs/tutorial/LangImpl02.html#full-code-listing . Which is unfinished application.
