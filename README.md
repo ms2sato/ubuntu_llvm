@@ -10,7 +10,7 @@ LLVM environment for ubuntus on docker.
 $ docker-compose build
 $ docker/bin/sh
 root@d7aed2ef2140:/# cd works
-root@d7aed2ef2140:/# make
+root@d7aed2ef2140:/# ./make
 root@d7aed2ef2140:/# ./toy
 ready> 
 ```
