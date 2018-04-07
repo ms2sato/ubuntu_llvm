@@ -1,5 +1,5 @@
 # What is this?
-LLVM environment for ubuntus on docker.
+LLVM6.0 environment for ubuntus on docker.
 
 # Ready to start
 - install docker ( My version is Docker for Mac `Docker version 18.03.0-ce, build 0520e24` )
